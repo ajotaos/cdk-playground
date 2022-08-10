@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-eventbridge": "^3.154.0",
+    "@graphql-yoga/node": "^2.13.6",
+    "@prisma/client": "^4.2.1",
+    "@vendia/serverless-express": "^4.10.1",
+    "graphql": "^16.5.0",
+    "luxon": "^3.0.1",
+    "nanoid": "^4.0.0",
+    "ts-pattern": "^4.0.5"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.102",
+    "@types/luxon": "^3.0.0",
+    "prisma": "^4.2.1"
+  }
+}
